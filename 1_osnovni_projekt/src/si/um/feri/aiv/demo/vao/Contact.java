@@ -1,4 +1,4 @@
-package si.um.feri.aiv.demo1.vao;
+package si.um.feri.aiv.demo.vao;
 
 public class Contact {
 

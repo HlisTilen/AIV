@@ -1,6 +1,6 @@
-package si.um.feri.aiv.demo1.dao.interfaces;
+package si.um.feri.aiv.demo.dao.interfaces;
 
-import si.um.feri.aiv.demo1.vao.User;
+import si.um.feri.aiv.demo.vao.User;
 
 import java.util.List;
 import java.util.Optional;

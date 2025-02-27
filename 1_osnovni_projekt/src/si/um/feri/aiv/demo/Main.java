@@ -1,9 +1,9 @@
-package si.um.feri.aiv.demo1;
+package si.um.feri.aiv.demo;
 
-import si.um.feri.aiv.demo1.dao.ContactDAO;
-import si.um.feri.aiv.demo1.dao.UserDAO;
-import si.um.feri.aiv.demo1.vao.Contact;
-import si.um.feri.aiv.demo1.vao.User;
+import si.um.feri.aiv.demo.dao.ContactDAO;
+import si.um.feri.aiv.demo.dao.UserDAO;
+import si.um.feri.aiv.demo.vao.Contact;
+import si.um.feri.aiv.demo.vao.User;
 
 public class Main {
     public static void main(String[] args) {

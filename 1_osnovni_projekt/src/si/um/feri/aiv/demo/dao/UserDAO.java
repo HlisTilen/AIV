@@ -1,7 +1,7 @@
-package si.um.feri.aiv.demo1.dao;
+package si.um.feri.aiv.demo.dao;
 
-import si.um.feri.aiv.demo1.dao.interfaces.UserDAOInterface;
-import si.um.feri.aiv.demo1.vao.User;
+import si.um.feri.aiv.demo.dao.interfaces.UserDAOInterface;
+import si.um.feri.aiv.demo.vao.User;
 
 import java.util.ArrayList;
 import java.util.List;

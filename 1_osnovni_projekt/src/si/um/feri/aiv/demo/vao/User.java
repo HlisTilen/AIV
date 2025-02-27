@@ -1,4 +1,4 @@
-package si.um.feri.aiv.demo1.vao;
+package si.um.feri.aiv.demo.vao;
 
 import java.util.ArrayList;
 import java.util.List;
