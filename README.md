@@ -5,6 +5,7 @@ Primeri pri predmetu AIV
  ┣ 📂 1_osnovni_projekt (VAO in DAO)
  ┣ 📂 2_vzorec_edinec (Singleton in Service layer)
  ┣ 📂 3_vzorec_iterator (Iterator)
- ┣ 📂 4_vzorec_opazovalec (Observer)      
+ ┣ 📂 4_vzorec_opazovalec (Observer)
+ ┣ 📂 5_vzorec_veriga_odgovornosti (CoR)       
  
 ```
